@@ -1,0 +1,5 @@
+the_spotiroom/the_spotiroom/
+the_spotiroom/the_spotiroom.props
+modules/__pycache__/
+modules/spotipy_custom/__pycache__/
+.cache-a
