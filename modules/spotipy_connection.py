@@ -112,7 +112,7 @@ class spotipy_connection():
             if current != old:
                 audio_features = self.sp.audio_features(current['id'])
                 danceability = audio_features[0]['danceability']
-                tempo = audio_features[0]['tempo']
+                tempo = audio_features[0]['tempo'] + 0.00001
                 tempo_period = 30/tempo
                 if audio_features[0]['energy'] > 0.5 and audio_features[0]['valence'] > 0.5:
                     mood = 4
