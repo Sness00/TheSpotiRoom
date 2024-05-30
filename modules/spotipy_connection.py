@@ -15,18 +15,18 @@ class spotipy_connection():
     sp = None
 
     def __init__(self):
-        #self.client_id = 'f398f6f7935c42329df3527a5f08085d' # Account del Pelazz
-        #self.client_secret = 'a92b9fea0d9d495ea1b4f3d911ca62e8' # Account del Pelazz
-        #self.redirect_uri = 'https://www.google.com' # Account del Pelazz
+        # self.client_id = 'f398f6f7935c42329df3527a5f08085d'
+        # self.client_secret = 'a92b9fea0d9d495ea1b4f3d911ca62e8'
+        # self.redirect_uri = 'https://www.google.com'
         self.client_id = '985802cfac79408da56061d424895817'
         self.client_secret = '119e677d57b641aa83a7d7338aafa6fc'
         self.redirect_uri = 'https://www.google.it/'
         # self.client_id = '1b3f903e755b4d1cbfb6b7c98491edce' #andre
         # self.client_secret = 'c769bb8c99d2444cb6f91dc0d314ef26' 
         # self.redirect_uri = 'https://www.google.com'
-        #self.client_id = '421bf7f958744400b1748f1f6c0ee5dc'
-        #self.client_secret = '1957fa73cb9f40609da215761cba259b'
-        #self.redirect_uri = 'https://www.google.com'
+        # self.client_id = '421bf7f958744400b1748f1f6c0ee5dc'
+        # self.client_secret = '1957fa73cb9f40609da215761cba259b'
+        # self.redirect_uri = 'https://www.google.com'
 
         # List of authorizations for spotify web api
         scope = 'playlist-modify-public, playlist-modify-private, app-remote-control, streaming, user-read-playback-state, '
