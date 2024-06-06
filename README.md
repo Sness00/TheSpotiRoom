@@ -3,10 +3,10 @@ Welcome to the SpotiRoom, enjoy your stay!
 ![The SpotiRoom](/img/rendering_finale.png)
 
 ## Concept
-Have you ever felt the same place, but in different ways according to what music you were listening at the moment?
-This application expresses this very feeling, bringing different sensations to life, playing with lights and movement.
+Have you ever felt the same place in different ways according to what music you were listening to at the moment?
+This application expresses this very feeling, bringing different sensations to life, playing with light and movement.
 
-Watch as the lamp and the background change according to the songs' mood in the moment, while particles dance in a flutter of colors!
+Watch as the lights and the background change according to the songs' mood in the moment, while particles dance in a flutter of colors!
 
 ## Requirements
 <u>**This application runs only on Windows OS.**</u>  
@@ -28,9 +28,9 @@ To enjoy the application, follow these instructions:
 - **.NET framework**:
     you can install the .NET framework [here](https://dotnet.microsoft.com), or if you want to personalize your scene you can install [vvvv gamma](https://visualprogramming.net/) instead.
 
-## First Time Run
+## First Run
 
-After satisfying the requirements, do the following:
+After satisfying the requirements, do the following.
 
 1. Clone or download the repo content
 
@@ -41,10 +41,10 @@ After satisfying the requirements, do the following:
 4. Insert Client ID, Client Secret and Redirect URI in the opened window:
 ![Credentials](/img/credentials.png)
 
-5. A browser tab should open. Copy the link and past it inside the following window:
+5. A browser tab should open. Copy the link and paste it inside the following window:
 ![Link](/img/link.png)
 
-6. Sit back and enjoy! Next time you'll run the app it will skip the authentication process and will start to reproduce music automatically.
+6. Sit back and enjoy! Next time you'll run the app it will skip the authentication process and will start to reproduce music automatically
 
 7. You can turn off the application simply by closing Spotify, or by pressing the __Quit App__ button:
 ![Quit](/img/quit.png)
