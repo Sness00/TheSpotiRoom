@@ -1,5 +1,5 @@
-## The SpotiRoom
-Welcome to the SpotiRoom, enjoy your stay!
+## The Spoti-Room
+Welcome to the Spoti-Room, enjoy your stay!
 ![The SpotiRoom](/img/rendering_finale.png)
 
 ## Concept
