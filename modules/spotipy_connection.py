@@ -21,14 +21,15 @@ class spotipy_connection():
         if dotenv.find_dotenv(filename='./modules/credentials.env') == '':
             cred_wind = credentials_window.cred_window()
             self.client_id, self.client_secret, self.redirect_uri = cred_wind.display_window()
-            f = open('./modules/credentials.env', 'w')
-            f.write('CLIENT_ID=' + self.client_id + '\n')
-            f.write('CLIENT_SECRET=' + self.client_secret + '\n')
-            f.write('REDIRECT_URI=' + self.redirect_uri)
-            f.close()
-            os.environ["CLIENT_ID"] = self.client_id
-            os.environ["CLIENT_SECRET"] = self.client_secret
-            os.environ["REDIRECT_URI"] = self.redirect_uri
+            if self.client_id != '' and self.client_secret != 'none' and self.redirect_uri != '':
+                f = open('./modules/credentials.env', 'w')
+                f.write('CLIENT_ID=' + self.client_id + '\n')
+                f.write('CLIENT_SECRET=' + self.client_secret + '\n')
+                f.write('REDIRECT_URI=' + self.redirect_uri)
+                f.close()
+                os.environ["CLIENT_ID"] = self.client_id
+                os.environ["CLIENT_SECRET"] = self.client_secret
+                os.environ["REDIRECT_URI"] = self.redirect_uri
         else:
             dotenv.load_dotenv('./modules/credentials.env')
             self.client_id = os.environ.get('CLIENT_ID')
