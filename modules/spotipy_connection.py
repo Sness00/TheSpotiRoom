@@ -1,4 +1,5 @@
 from modules import spotipy_custom
+from modules import credentials_window
 import webbrowser
 import os
 import dotenv
@@ -18,24 +19,16 @@ class spotipy_connection():
 
     def __init__(self):
         if dotenv.find_dotenv(filename='./modules/credentials.env') == '':
-            if os.environ.get("CLIENT_ID") is None:
-                self.client_id = input("Insert your Client ID: ")
-                f = open('./modules/credentials.env', 'w')
-                f.write('CLIENT_ID=' + self.client_id + '\n')
-                f.close()
-                os.environ["CLIENT_ID"] = self.client_id
-            if os.environ.get("CLIENT_SECRET") is None:
-                self.client_secret = input("Insert your Client Secret: ")
-                f = open('./modules/credentials.env', 'a')
-                f.write('CLIENT_SECRET=' + self.client_secret + '\n')
-                f.close()
-                os.environ["CLIENT_SECRET"] = self.client_secret
-            if os.environ.get("REDIRECT_URI") is None:
-                self.redirect_uri = input("Insert your redirect URI: ")
-                os.environ["REDIRECT_URI"] = self.redirect_uri
-                f = open('./modules/credentials.env', 'a')
-                f.write('REDIRECT_URI=' + self.redirect_uri + '\n')
-                f.close()
+            cred_wind = credentials_window.cred_window()
+            self.client_id, self.client_secret, self.redirect_uri = cred_wind.display_window()
+            f = open('./modules/credentials.env', 'w')
+            f.write('CLIENT_ID=' + self.client_id + '\n')
+            f.write('CLIENT_SECRET=' + self.client_secret + '\n')
+            f.write('REDIRECT_URI=' + self.redirect_uri)
+            f.close()
+            os.environ["CLIENT_ID"] = self.client_id
+            os.environ["CLIENT_SECRET"] = self.client_secret
+            os.environ["REDIRECT_URI"] = self.redirect_uri
         else:
             dotenv.load_dotenv('./modules/credentials.env')
             self.client_id = os.environ.get('CLIENT_ID')

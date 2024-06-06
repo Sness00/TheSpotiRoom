@@ -34,7 +34,7 @@ class window():
         label2.config(font=('helvetica', 12))
         canvas1.create_window(500, 200, window=label2, anchor = "nw")
 
-        button3 = Button(self.root, text='Submit link', command=lambda:self.submit(1), bg='blue', fg='white', font=('helvetica', 9, 'bold'))
+        button3 = Button(self.root, text='Submit Link', command=lambda: self.submit(1), bg='blue', fg='white', font=('helvetica', 9, 'bold'))
         canvas1.create_window(700, 300, window=button3, anchor="nw")
 
         entry = Entry(self.root, textvariable=self.link_var, background='white')
