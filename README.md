@@ -52,6 +52,7 @@ After satisfying the requirements, do the following.
 ## Technologies
 
 + python 3.11:
+    - pyaudio
     - spotipy
     - python-osc
     - numpy
