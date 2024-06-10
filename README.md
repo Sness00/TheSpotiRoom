@@ -51,7 +51,7 @@ After satisfying the requirements, do the following.
 
 ## Technologies
 
-+ python 3.11:
++ Python 3.11:
     - pyaudio
     - spotipy
     - python-osc
@@ -61,7 +61,7 @@ After satisfying the requirements, do the following.
     - VL.Fuse
     - VL.TextureFX
 
-+ blender 4.0
++ Blender 4.0
 
 ## Authors
 Gabriele Baroli, Andrea Paoletti, Marco Pelazza
