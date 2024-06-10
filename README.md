@@ -9,7 +9,7 @@ This application expresses this very feeling, bringing different sensations to l
 Watch as the lights and the background change according to the songs' mood in the moment, while particles dance in a flutter of colors!
 
 ## Requirements
-<u>This application runs only on Windows OS.</u>  
+***This application runs only on Windows OS.***  
 
 To enjoy the application, follow these instructions: 
 - **Access to Spotify Web API**:
@@ -62,3 +62,6 @@ After satisfying the requirements, do the following.
     - VL.TextureFX
 
 + blender 4.0
+
+## Authors
+Gabriele Baroli, Marco Pelazza, Andrea Paoletti
