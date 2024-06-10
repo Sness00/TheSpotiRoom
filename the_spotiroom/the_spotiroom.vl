@@ -10083,7 +10083,7 @@
         <Patch Id="BBPdyxV8RbrO2SmurXAi9s">
           <Canvas Id="NmaXhjShbN8PaK1Eguh1iD" CanvasType="Group">
             <Node Bounds="173,226,34,19" Id="CA7TgdPAArGMOpNm13kgXl">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="libri" />
               </p:NodeReference>
@@ -10093,7 +10093,7 @@
               <Pin Id="AlCWIbrEUb3LxbM0AJy4SQ" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="194,261,55,19" Id="LEefAMB1yVHPEW5RYNf5pK">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="poltrone" />
               </p:NodeReference>
@@ -10102,7 +10102,7 @@
               <Pin Id="Vbhe4rQdbhnMZeAKovxncw" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="214,293,44,19" Id="BDz3062qK05OssLbiRMb7d">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="tavolo" />
               </p:NodeReference>
@@ -10112,7 +10112,7 @@
               <Pin Id="SOtu3snw2eCPnmwSgvzyJQ" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="233,328,45,19" Id="F7rBvvSiFHKLbimj7VWdcH">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="stereo" />
               </p:NodeReference>
@@ -10123,7 +10123,7 @@
               <Pin Id="NXw0868K123OhbITFgT7wz" Name="Input" Kind="InputPin" />
             </Node>
             <Node Bounds="262,358,49,19" Id="Ki1biRBDV2EOatrgGl1aci">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="scaffali" />
               </p:NodeReference>
@@ -10133,7 +10133,7 @@
               <Pin Id="G7d50Gugz9TN2XurUizcN9" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="282,398,60,19" Id="DVAf2NkRTHsOR8Ginmi2aI">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="mobiletto" />
               </p:NodeReference>
@@ -10142,7 +10142,7 @@
               <Pin Id="PQCPmCUGosqM4bxfeyY78U" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="300,432,49,19" Id="FJyCLNgb5EjOADKSB1ujCf">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="quadro" />
               </p:NodeReference>
@@ -10152,7 +10152,7 @@
               <Pin Id="BTBnBfhJBO7MABJSWGZ4EI" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="316,475,55,19" Id="Ms1IVoVFDcJLFdHHzbNgxe">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="lampada" />
               </p:NodeReference>
@@ -10162,7 +10162,7 @@
               <Pin Id="T9IZa4kxfIhOT4A9rtiX14" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="334,504,55,19" Id="PLOsFfbBsrhOAAklruAHSq">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="quadro2" />
               </p:NodeReference>
@@ -10172,7 +10172,7 @@
               <Pin Id="LmAZRGnW2PLO7ZSiGhlwbp" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="357,531,51,19" Id="No4Nire4qowO5VhYtRk7mp">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="tappeto" />
               </p:NodeReference>
@@ -10182,7 +10182,7 @@
               <Pin Id="JkymR8YElKuMrQjYXkd7jD" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="371,563,41,19" Id="NbfFAaQD4VlPEnJ1qOzAR4">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="porta" />
               </p:NodeReference>
@@ -10192,7 +10192,7 @@
               <Pin Id="LUtxcdhnGWmLU652uuh83L" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="395,594,51,19" Id="JOtImMW2hdVO5wT0oUbfTj">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="finestra" />
               </p:NodeReference>
@@ -10202,7 +10202,7 @@
               <Pin Id="AmuWFFneGhNPLPQC8ZLW9l" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="412,627,34,19" Id="IMtJA9OwgjPPfKASJYmJhy">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="vasi" />
               </p:NodeReference>
@@ -10212,7 +10212,7 @@
               <Pin Id="M1hL0PEM8osMIU2iY8IzRD" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="481,750,64,19" Id="U6MfGxLT4WeQMb2OiLFbRt">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="pavimento" />
               </p:NodeReference>
@@ -10254,7 +10254,7 @@
             <ControlPoint Id="S3cmfBU7EhzMsnd8S4xh0k" Bounds="454,293" />
             <ControlPoint Id="TU53jI4uDUNM0Keb9VMZOE" Bounds="346,230" />
             <Node Bounds="433,673,43,19" Id="HbweA85VkmZQU1YJPw46LT">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="pareti" />
               </p:NodeReference>
@@ -10264,7 +10264,7 @@
               <Pin Id="NJWuym6NubQNZQCz814x63" Name="loaded" Kind="OutputPin" />
             </Node>
             <Node Bounds="468,717,49,19" Id="BX6EBGjt4M3MZO3lN8erVm">
-              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+              <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
                 <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                 <Choice Kind="ProcessNode" Name="soffitto" />
               </p:NodeReference>
@@ -11321,7 +11321,7 @@
             <Pin Id="QmXizxVOA44LqzqFbPQRnj" Name="Multisample Count" Kind="InputPin" IsHidden="true" />
             <Pin Id="TTTAEWdwwMPLI6BYKZqAd0" Name="Input" Kind="InputPin" />
             <Pin Id="KnKRqc7Lnw6PoOyBkITyKp" Name="Render View" Kind="InputPin" />
-            <Pin Id="FnT8ymkT51tLzHcAlcY12a" Name="Title" Kind="InputPin" DefaultValue="The SpotiRoom" />
+            <Pin Id="FnT8ymkT51tLzHcAlcY12a" Name="Title" Kind="InputPin" DefaultValue="The Spoti-Room" />
             <Pin Id="HqWJ0TtkqsuLksT7fg0cdA" Name="Clear Flags" Kind="InputPin" IsHidden="true" />
             <Pin Id="KgtxrUjss55Nhr491h1d76" Name="Clear Color" Kind="InputPin" />
             <Pin Id="GNh4Ewlz7nsO2iXXHMAnXL" Name="Clear Depth" Kind="InputPin" IsHidden="true" />
@@ -11339,7 +11339,7 @@
             <Pin Id="M68WTSYUiu1QNkdzxmdBLA" Name="Depth Buffer" Kind="OutputPin" />
           </Node>
           <Node Bounds="488,1584,85,19" Id="EnMzksyDHVKMpMjpMew34b">
-            <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+            <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessNode" Name="stanza" />
             </p:NodeReference>
@@ -11352,7 +11352,7 @@
             <Pin Id="SLBtuYUZW3fPAd1q0ddcMI" Name="loaded" Kind="OutputPin" />
           </Node>
           <Node Bounds="753,1471,85,19" Id="Q4EB1RL1T7RNk6JXtaYHYO">
-            <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+            <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessNode" Name="luci" />
             </p:NodeReference>
@@ -11670,7 +11670,7 @@
             <Pin Id="V0DToF2ObQyLa5bDgWuxIP" Name="Result" Kind="OutputPin" />
           </Node>
           <Node Bounds="798,2449,52,19" Id="Bjb7Ysdfx8mOFBVLF2KuxT">
-            <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+            <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessNode" Name="schermi" />
             </p:NodeReference>
@@ -12577,7 +12577,7 @@
             <Pin Id="FeYkpK4Z4LAMyd7MMnNxj4" Name="Output" Kind="StateOutputPin" />
           </Node>
           <Node Bounds="880,2421,75,19" Id="B584lIDhrqKOm3YHYOrOKV">
-            <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom3.vl">
+            <p:NodeReference LastCategoryFullName="Main" LastDependency="the_spotiroom.vl">
               <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
               <Choice Kind="ProcessNode" Name="splashscreen" />
             </p:NodeReference>
