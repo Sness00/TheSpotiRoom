@@ -64,4 +64,4 @@ After satisfying the requirements, do the following.
 + blender 4.0
 
 ## Authors
-Gabriele Baroli, Marco Pelazza, Andrea Paoletti
+Gabriele Baroli, Andrea Paoletti, Marco Pelazza
