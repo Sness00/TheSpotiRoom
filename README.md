@@ -51,7 +51,7 @@ After satisfying the requirements, do the following.
 
 ## Demo
 
-[Video](https://www.youtube.com/watch?v=NKlr2F109Is)
+[![Video](https://img.youtube.com/vi/NKlr2F109Is/0.jpg)](https://www.youtube.com/watch?v=NKlr2F109Is)
 
 ## Technologies
 
