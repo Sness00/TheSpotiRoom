@@ -49,6 +49,10 @@ After satisfying the requirements, do the following.
 7. You can turn off the application simply by closing Spotify, or by pressing the __Quit App__ button:
 ![Quit](/img/quit.png)
 
+## Demo
+
+[Video](https://www.youtube.com/watch?v=NKlr2F109Is)
+
 ## Technologies
 
 + Python 3.11:
